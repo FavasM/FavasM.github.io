@@ -160,30 +160,25 @@ body{
   overflow:hidden;
   position:fixed;
   transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
-    width: 100%
-    height: 100vh;
 }
 
 .p {
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Montserrat', sans-serif;
     color: #fff;
-    font-size: 25px;
-    width: 100%
-    height: 100vh;
+    font-size: 20px;
 }
 
 .title {
   font-family: 'Rowdies', cursive;
   color:#fff;
-  font-size: 55px;
+  font-size: 50px;
 }
 
 .title:hover {
-   font-size: 65px;
   background: -webkit-linear-gradient(#d4418e, #0652c5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
