@@ -160,6 +160,8 @@ body{
   overflow:hidden;
   position:fixed;
   transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+    width: 100%
+    height: 100vh;
 }
 
 .p {
@@ -170,15 +172,18 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: #fff;
     font-size: 25px;
+    width: 100%
+    height: 100vh;
 }
 
 .title {
   font-family: 'Rowdies', cursive;
   color:#fff;
-  font-size: 70px;
+  font-size: 55px;
 }
 
 .title:hover {
+   font-size: 65px;
   background: -webkit-linear-gradient(#d4418e, #0652c5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
