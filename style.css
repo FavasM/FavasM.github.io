@@ -4,7 +4,7 @@ html, body {
     width: 100%;
     height: 100vh;
     background: url('bg1.jpg');
-    background-size: cover;
+    background-size: auto;
 }
 
 h1 {
