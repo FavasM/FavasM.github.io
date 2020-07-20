@@ -155,7 +155,7 @@ body{
 #preloader{
   width:100%;
   height:100vh;
-  background:#101010;
+  background:#45b29a;
   overflow:hidden;
   position:fixed;
   transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
@@ -168,7 +168,7 @@ body{
     transform: translate(-50%, -50%);
     font-family: 'Montserrat', sans-serif;
     color: #fff;
-    font-size: 10px;
+    font-size: 15px;
     font-weight:300;
 }
 
